@@ -1,0 +1,20 @@
+{
+  "experiences": [
+    {
+      "id": 2,
+      "title": "Engenheiro de Software",
+      "subtitle": "Lab. de Desenvolvimento de Software",
+      "period": "05/2016 - Atual",
+      "description": "Trabalhando em projetos com desenvolvimento Android e PHP."
+    },
+    {
+      "id": 3,
+      "title": "Líder Técnico",
+      "subtitle": "Lab. de Inovação Tecnológica",
+      "period": "02/2013 - 05/2016",
+      "description": "Trabalhei com desenvolvimento web (Ruby on Rails) e mobile (Android e iOS).\
+                      Fiz pesquisas relacionadas à Rede de Petri. Assim como participando de projetos\
+                      envolvendo sistemas embarcados."
+    }
+  ]
+}

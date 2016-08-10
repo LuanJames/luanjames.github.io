@@ -1,0 +1,11 @@
+<div class="custom-content-wrapper wow fadeIn a{{item.id}}" data-wow-delay="0.{{item.id}}s">
+    <h3>{{item.title}} <span>{{item.subtitle}}</span></h3>
+    <span>{{item.period}}</span>
+    <p>{{item.description}}</p>
+
+    {{#each item.acts as |act|}}
+      <div class="chip">
+        {{act}}
+      </div>
+    {{/each}}
+</div>
