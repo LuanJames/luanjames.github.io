@@ -18,6 +18,9 @@ module.exports = function(environment) {
       // when it is created
     }
   };
+  ENV.i18n = {
+    defaultLocale: 'br'
+  };
 
   if (environment === 'development') {
     // ENV.APP.LOG_RESOLVER = true;

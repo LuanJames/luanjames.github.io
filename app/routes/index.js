@@ -3,6 +3,12 @@ import Ember from 'ember';
 export default Ember.Route.extend({
   model(){
     let data = {
+      "profile": "Atualmente moro em Fortaleza mas tenho disponibilidade para mudanças. " +
+          "Sou graduado em engenharia de computação pelo Instituto Federal do Ceará; " +
+          "tenho como principais qualidades: criatividade, dedicação e aprendizagem contínua. " +
+          "Desde 2013 trabalho como lider técnico em vários projetos onde obtive muita " +
+          "experiência com desenvolvimento web e mobile. Minhas principais áreas de interesse são: " +
+          "engenharia de software e análise e desenvolvimento de algoritmos.",
       "experiences": [
         {
           "id": 2,
