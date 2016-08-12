@@ -2,6 +2,9 @@ export default {
   // "some.translation.key": "Text for some.translation.key",
   //
   "br": "English",
+  "brazil": "Brasil",
+  "personal": "pessoal",
+  "skills": "Habilidades Profissionais",
   "work_experience": "Experiência",
   "formation": "Engenheiro de Computação",
   "cv": {
