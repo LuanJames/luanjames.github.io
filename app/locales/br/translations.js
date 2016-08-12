@@ -1,8 +1,9 @@
 export default {
   // "some.translation.key": "Text for some.translation.key",
   //
+  "br": "English",
   "work_experience": "Experiência",
-
+  "formation": "Engenheiro de Computação",
   "cv": {
     "profile": "Engenheiro de computação formado pelo Instituto Federal do Ceará; " +
       "tenho como principais qualidades: criatividade, dedicação e aprendizagem contínua. " +

@@ -9,6 +9,7 @@ module.exports = function(defaults) {
   });
 
   app.import('bower_components/materialize/dist/css/materialize.min.css');
+  app.import('bower_components/materialize/dist/js/materialize.min.js');
 
   var bootstrapFonts = pickFiles('bower_components/materialize/dist/fonts/roboto', {
       srcDir: '/',
