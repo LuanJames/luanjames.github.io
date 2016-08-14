@@ -1,5 +1,14 @@
-<div class="custom-content-wrapper wow fadeIn a{{item.id}}" data-wow-delay="0.{{item.id}}s">
-    <h3>{{item.title}} <span>{{item.subtitle}}</span></h3>
+<div class="wow fadeIn a{{item.id}}" data-wow-delay="0.{{item.id}}s">
+    <h3>{{item.title}}<span> {{item.subtitle}}</span>
+      {{#if item.github}}
+      <a href="{{item.github}}" target="_blank"> <i class="fa fa-github" aria-hidden="true"></i></a>
+      {{/if}}
+        {{#if item.url}}
+        <a href="{{item.url}}" target="_blank"> <i class="fa fa-external-link" aria-hidden="true"></i></a>
+        {{/if}}
+    </h3>
+
+
     <span>{{item.period}}</span>
     <p>{{item.description}}</p>
 

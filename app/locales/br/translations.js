@@ -3,6 +3,8 @@ export default {
   //
   "br": "English",
   "brazil": "Brasil",
+  "education": "Educação",
+  "projects": "Projetos",
   "personal": "pessoal",
   "skills": "Habilidades Profissionais",
   "work_experience": "Experiência",
