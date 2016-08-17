@@ -35,7 +35,7 @@ export default Ember.Route.extend({
       ],
       "projects": [
         {
-          "id": 2,
+          "id": 1,
           "title": "Vendor",
           "period": "2015",
           "description": "Vendor é um software para dedução e supervisão de vendas. " +
@@ -44,7 +44,7 @@ export default Ember.Route.extend({
           "acts": ["Ruby on Rails", "RESTful", "UML", "Android"]
         },
         {
-          "id": 3,
+          "id": 2,
           "title": "Flashcards WebApp",
           "url": "https://luanjames.github.io/flashcards-react/",
           "github": "https://github.com/LuanJames/flashcards-react",
@@ -64,6 +64,15 @@ export default Ember.Route.extend({
         },
         {
           "id": 4,
+          "title": "Ceará Game Tools",
+          "github": "https://github.com/hexat/projetocgt",
+          "period": "2014",
+          "description": "É uma ferramenta gratuita e multiplataforma para criação " +
+              "de jogos 2D. Destinados à usuários com pouco/nenhum conhecimento de programação.",
+          "acts": ["Ruby on Rails", "Javascript", "WebSocket"]
+        },
+        {
+          "id": 5,
           "title": "Vestus",
           "url": "http://www.vestus.com.br",
           "period": "2013",
@@ -73,7 +82,7 @@ export default Ember.Route.extend({
           "acts": ["Ruby on Rails", "JavaFX"]
         },
         {
-          "id": 5,
+          "id": 6,
           "title": "Portal da História",
           "url": "http://portal.ceara.pro.br",
           "period": "2012",
@@ -99,7 +108,9 @@ export default Ember.Route.extend({
           "title": "Technical leader",
           "subtitle": "Technological Innovation Labs",
           "period": "02/2013 - 05/2016",
-          "description": "I had worked with Web (Ruby on Rails) and mobile development (Android and iOS).",
+          "description": "I had worked with Web (Ruby on Rails) and mobile development " +
+              "(Android and iOS). Here I did researches related to Petri nets. As well as "+
+              "participating in some automation system projects.",
           "acts": ["Ruby on Rails", "PHP", "Android", "DevOps"]
         }
       ],
@@ -114,7 +125,7 @@ export default Ember.Route.extend({
       ],
       "projects": [
         {
-          "id": 2,
+          "id": 1,
           "title": "Vendor",
           "period": "2015",
           "description": "Vendor is a software for prediction and supervision of "+
@@ -123,7 +134,7 @@ export default Ember.Route.extend({
           "acts": ["Ruby on Rails", "RESTful", "UML", "Android"]
         },
         {
-          "id": 3,
+          "id": 2,
           "title": "Flashcards WebApp",
           "url": "https://luanjames.github.io/flashcards-react/",
           "github": "https://github.com/LuanJames/flashcards-react",
@@ -142,14 +153,25 @@ export default Ember.Route.extend({
         },
         {
           "id": 4,
-          "title": "Vestus",
-          "url": "http://www.vestus.com.br",
-          "period": "2013",
-          "description": "Vestus is an Enterprise Resource Planning to micro and small enterprises.",
-          "acts": ["Ruby on Rails", "JavaFX"]
+          "title": "Ceará Game Tools",
+          "github": "https://github.com/hexat/projetocgt",
+          "period": "2014",
+          "description": "Ceará Game Tools (CGT) is a free and multiplatform " +
+              "software made to enable users, without programming knowledge, " +
+              "creates 2D games.",
+          "acts": ["JavaFX", "Android", "Petri Net"]
         },
         {
           "id": 5,
+          "title": "Vestus",
+          "url": "http://www.vestus.com.br",
+          "period": "2013",
+          "description": "Vestus is an Enterprise Resource Planning to micro and "+
+              "small enterprises. It has a web version and another desktop.",
+          "acts": ["Ruby on Rails", "JavaFX"]
+        },
+        {
+          "id": 6,
           "title": "History WebSystem",
           "url": "http://portal.ceara.pro.br",
           "period": "2012",

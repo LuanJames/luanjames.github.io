@@ -11,9 +11,10 @@ export default {
   "formation": "Computer engineer",
   "cv": {
     "profile": "I studied Computer Engineering. Since 2013 working as a technical " +
-    "leader in various projects. I have experience with web development and " +
-    "mobile. My main areas of interest are: software engineering and analysis " +
-    "and software development."
+    "leader in various projects. I have experience with web and mobile development. " +
+    "I have as main personal qualities: creativity, dedication and " +
+    "continuous learning. My main areas of interest are: software engineering " +
+    "and analysis and software development."
   }
   //
   // "key.with.interpolation": "Text with {{anInterpolation}}"
