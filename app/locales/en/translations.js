@@ -10,11 +10,10 @@ export default {
   "work_experience": "Work Experience",
   "formation": "Computer engineer",
   "cv": {
-    "profile": "I studied Computer Engineering. Since 2013 working as a technical " +
-    "leader in various projects. I have experience with web and mobile development. " +
-    "I have as main personal qualities: creativity, dedication and " +
-    "continuous learning. My main areas of interest are: software engineering " +
-    "and analysis and software development."
+    "profile": "I studied Computer Engineering. Since 2013 I have neen working " +
+    "as a technical leader in various projects. I have experience with web and " +
+    "mobile development. I am a creative, dedicated lifelong learner. My main " +
+    "areas of interest are: software engineering analysis and software development."
   }
   //
   // "key.with.interpolation": "Text with {{anInterpolation}}"

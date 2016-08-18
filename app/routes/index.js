@@ -100,7 +100,7 @@ export default Ember.Route.extend({
           "title": "Software engineer",
           "subtitle": "Software Development Labs",
           "period": "05/2016 - Current",
-          "description": "Here, I'm working in projects with Android and Web Development.",
+          "description": "Here, I'm working on projects with Android and Web Development.",
           "acts": ["PHP", "Android"]
         },
         {
@@ -108,16 +108,16 @@ export default Ember.Route.extend({
           "title": "Technical leader",
           "subtitle": "Technological Innovation Labs",
           "period": "02/2013 - 05/2016",
-          "description": "I had worked with Web (Ruby on Rails) and mobile development " +
-              "(Android and iOS). Here I did researches related to Petri nets. As well as "+
-              "participating in some automation system projects.",
+          "description": "Worked with Web (Ruby on Rails) and mobile development " +
+              "(Android and iOS). I was involved in research related to Petri net. " +
+              "Also I participated in automation system projects.",
           "acts": ["Ruby on Rails", "PHP", "Android", "DevOps"]
         }
       ],
       "educations": [
         {
           "id": 2,
-          "title": "Computer engineering",
+          "title": "Computer Engineering",
           "subtitle": "IFCE",
           "period": "2010 - 2015",
           "description": "Computer engineering degree with an emphasis on analysis and software development."
@@ -129,8 +129,8 @@ export default Ember.Route.extend({
           "title": "Vendor",
           "period": "2015",
           "description": "Vendor is a software for prediction and supervision of "+
-              "sales. The main goal is to help business sellers in a intelligent "+
-              "and real-time way.",
+              "sales. The main goal is to provide intelligent and real-time " +
+              "information to the salesperson.",
           "acts": ["Ruby on Rails", "RESTful", "UML", "Android"]
         },
         {
@@ -166,8 +166,9 @@ export default Ember.Route.extend({
           "title": "Vestus",
           "url": "http://www.vestus.com.br",
           "period": "2013",
-          "description": "Vestus is an Enterprise Resource Planning to micro and "+
-              "small enterprises. It has a web version and another desktop.",
+          "description": "Vestus is an Enterprise Resource Planning software " +
+              "created for micro and small enterprises. Providing a Web and " +
+              "addiction desktop version.",
           "acts": ["Ruby on Rails", "JavaFX"]
         },
         {
@@ -175,7 +176,8 @@ export default Ember.Route.extend({
           "title": "History WebSystem",
           "url": "http://portal.ceara.pro.br",
           "period": "2012",
-          "description": "Software for sending, analysis and tokens search in historical documents.",
+          "description": "Software for archiving, analysing and creating search " +
+              "tokens historical documents.",
           "acts": ["PHP", "Javascript"]
         }
 
