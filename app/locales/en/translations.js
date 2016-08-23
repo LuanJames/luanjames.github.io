@@ -10,7 +10,7 @@ export default {
   "work_experience": "Work Experience",
   "formation": "Computer engineer",
   "cv": {
-    "profile": "I studied Computer Engineering. Since 2013 I have neen working " +
+    "profile": "I studied Computer Engineering. Since 2013 I have been working " +
     "as a technical leader in various projects. I have experience with web and " +
     "mobile development. I am a creative, dedicated lifelong learner. My main " +
     "areas of interest are: software engineering analysis and software development."
